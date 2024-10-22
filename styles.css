@@ -1,0 +1,21 @@
+h1 {
+    background-color: rgb(34, 0, 128);
+}
+.first {
+    color: brown;
+}
+.second {
+    color: aqua;
+}
+#a {
+    color: fuchsia;
+}
+#b {
+    color: white; background-color: black;
+}
+#c {
+    color: rgb(255, 0, 0);
+}
+.three {
+    color: beige;
+}
